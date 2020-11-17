@@ -1,2 +1,2 @@
 # The-Spark-Foundation
-<img align="right" alt="GIF" width="400px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" />
+<img align="center" alt="GIF" width="600px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" />
